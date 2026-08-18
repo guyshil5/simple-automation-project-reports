@@ -1,27 +1,12 @@
-﻿[
-    {
-        "id":  "2026-08-18_164825_maof_laamit",
-        "app":  "maof_laamit",
-        "version":  "1.0.3-test",
-        "date":  "2026-08-18",
-        "time":  "16:48",
-        "passed":  5,
-        "failed":  2,
-        "broken":  1,
-        "skipped":  0,
-        "total":  8
-    },
-    {
-        "id":  "2026-08-18_163450_maof_laamit",
-        "app":  "maof_laamit",
-        "branch":  "main",
-        "commit":  "3a98d1c",
-        "date":  "2026-08-18",
-        "time":  "16:34",
-        "passed":  5,
-        "failed":  2,
-        "broken":  1,
-        "skipped":  0,
-        "total":  8
-    }
-]
+﻿{
+    "id":  "2026-08-18_164825_maof_laamit",
+    "app":  "maof_laamit",
+    "version":  "1.0.3-test",
+    "date":  "2026-08-18",
+    "time":  "16:48",
+    "passed":  5,
+    "failed":  2,
+    "broken":  1,
+    "skipped":  0,
+    "total":  8
+}
