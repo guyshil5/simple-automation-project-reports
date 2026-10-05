@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-10-05_164454_maof_laamit",
+    "app": "maof_laamit",
+    "version": "main@99deda4",
+    "date": "2026-10-05",
+    "time": "16:44",
+    "passed": 40,
+    "failed": 0,
+    "broken": 1,
+    "skipped": 0,
+    "total": 41
+  },
+  {
     "id": "2026-10-05_140709_maof_laamit",
     "app": "maof_laamit",
     "version": "1.0.7 (42) - Phone",
