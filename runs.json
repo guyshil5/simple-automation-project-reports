@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-10-07_102940_maof_laamit",
+    "app": "maof_laamit",
+    "version": "main@77dcdac + צילומים רק סביב בדיקות (טרם קומיט) - אמולטור, ללא חנות",
+    "date": "2026-10-07",
+    "time": "10:29",
+    "passed": 30,
+    "failed": 0,
+    "broken": 0,
+    "skipped": 0,
+    "total": 30
+  },
+  {
     "id": "2026-10-05_164454_maof_laamit",
     "app": "maof_laamit",
     "version": "main@99deda4",
